@@ -2,6 +2,8 @@
 
 ## Prediction of Corporate Financial Incidents
 
+### 0. Data Cleaning/Preparation
+
 ### 1. Non-sequential models
 #### 1.1 Logistic Regression
 #### 1.2 Stochastic Gradient Descent Classifier
