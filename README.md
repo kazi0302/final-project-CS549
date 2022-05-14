@@ -1,4 +1,4 @@
-# Final-project-CS549
+# Final-project-CS549: Matthew Sheehan, Hirokatsu Suzuki, Erick Poe, John Sabio
 
 ## Prediction of Corporate Financial Incidents
 
